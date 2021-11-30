@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 840538141485.dkr.ecr.us-east-1.amazonaws.com/demo-frontend-bsakowski
   newName: 840538141485.dkr.ecr.us-east-1.amazonaws.com/demo-frontend-bsakowski
-  newTag: abcdefg
+  newTag: acafae5b
 resources:
 - ../../base
 patchesStrategicMerge:
